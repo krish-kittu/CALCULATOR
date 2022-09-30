@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+    top: 23px;
+}
+table{
+    margin: auto;
+}
+input{
+    height: 40px;
+    font-size: 23px;
+    border-width: 4px;
+}
+button{
+    font-size: 24px;
+    color: rgb(234, 240, 240);
+    border-width: 3px;
+    border-color: rgba(233, 237, 8, 0.909);
+    background-color: rgb(17, 15, 3);
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    cursor: grab;
+    
+    
+    
+
+}
+button:hover{
+    background-color:rgb(201, 186, 10);
+}
+
+.box{
+   
+    display: inline-block;
+    padding: 15px;
+    background-color:yellowgreen;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 6px;
+
+
+}
